@@ -316,10 +316,10 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:NAVIGATION_PAGES]
     pages: [
       { title: "Posts", url: "/posts/" },
-      { title: "About", url: "/about/",
-        children: [
-          { title: "Privacy Policy", url: "/privacy-policy/" }
-        ] },
+      { title: "About", url: "/about/"},
+        //children: [
+        //  { title: "Privacy Policy", url: "/privacy-policy/" }
+       //] },
       { title: "GitHub", url: "https://github.com/davidvkimball/astro-modular" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
@@ -337,7 +337,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:OPTIONAL_CONTENT_TYPES_PROJECTS]
     projects: true, // Enable projects section
     // [CONFIG:OPTIONAL_CONTENT_TYPES_DOCS]
-    docs: true, // Enable documentation section
+    docs: false, // Enable documentation section
   },
 
   // Home Options
