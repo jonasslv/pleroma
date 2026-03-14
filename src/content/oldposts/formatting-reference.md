@@ -1,6 +1,6 @@
 ---
 title: Formatting Reference
-date: 2025-09-07
+date: 2026-03-13
 description: Explore all the markdown, extended markdown, and other embed features available in this blog theme.
 tags:
   - markdown
@@ -9,7 +9,7 @@ tags:
   - reference
   - meta
   - blog
-image: "[[attachments/mountains.png]]"
+image: "[[../posts/attachments/mountains.png]]"
 imageAlt: Mountains and water.
 imageOG: false
 hideCoverImage: false
@@ -110,14 +110,14 @@ You can make callouts collapsible by adding `+` (expanded by default) or `-` (co
 ### Callouts with Formatting 
 
 > [!example]
-> You can use markdown syntax in callout content like *italics*, **bolded text**, or [links](posts/formatting-reference.md#Media%20Content).
+> You can use markdown syntax in callout content like *italics*, **bolded text**, or [links](formatting-reference.md#Media%20Content).
 ## Media Content
 
 ### Images
 
 #### Single Image With Caption
 
-![Mountains](/posts/attachments/mountains.png)
+![Mountains](../posts/attachments/mountains.png)
 *Photo by [Antoine Rault](https://unsplash.com/@antoinerault?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 #### Multiple Image Layouts
@@ -126,21 +126,21 @@ This theme automatically arranges consecutive images in responsive grid layouts 
 
 **Two Images Side by Side**
 
-![Mountain landscape](attachments/mountain-landscape.jpg)
-![Ocean view](attachments/ocean-view.jpg)
+![Mountain landscape](../posts/attachments/mountain-landscape.jpg)
+![Ocean view](../posts/attachments/ocean-view.jpg)
 
 **Three Images in a Row**
 
-![Forest path](attachments/forest-path.jpg)
-![Desert sunset](attachments/desert-sunset.jpg)
-![City skyline](attachments/city-skyline.jpg)
+![Forest path](../posts/attachments/forest-path.jpg)
+![Desert sunset](../posts/attachments/desert-sunset.jpg)
+![City skyline](../posts/attachments/city-skyline.jpg)
 
 **Four Images in a Row**
 
-![Winter landscape](attachments/winter-landscape.jpg)
-![Spring flowers](attachments/spring-flowers.jpg)
-![Summer beach](attachments/summer-beach.jpg)
-![Autumn leaves](attachments/autumn-leaves.jpg)
+![Winter landscape](../posts/attachments/winter-landscape.jpg)
+![Spring flowers](../posts/attachments/spring-flowers.jpg)
+![Summer beach](../posts/attachments/summer-beach.jpg)
+![Autumn leaves](../posts/attachments/autumn-leaves.jpg)
 
 **How to Use Multiple Images / Gallery**
 
@@ -156,7 +156,7 @@ On mobile devices, all layouts switch to a single column for better readability.
 
 ### Linked Images
 
-[![Mountains](/posts/attachments/mountains.png)](https://obsidian.md)
+[![Mountains](../posts/attachments/mountains.png)](https://obsidian.md)
 
 ```
 [![Mountains](/posts/attachments/mountains.png)](https://obsidian.md)
@@ -211,10 +211,10 @@ Here's an internal link with an anchor: [[sample-folder-based-post/index#Benefit
 
 Here's the same internal link with an anchor formatted in 4 different ways (both Obsidian and standard Astro syntax work):
 
-[Choose Your Workflow](posts/getting-started.md#Choose%20Your%20Workflow)
-[Choose Your Workflow](posts/getting-started#Choose%20Your%20Workflow)
-[[posts/getting-started#Choose Your Workflow|Choose Your Workflow]]
-[Choose Your Workflow](/posts/getting-started#choose-your-workflow)
+[Choose Your Workflow](getting-started.md#Choose%20Your%20Workflow)
+[Choose Your Workflow](getting-started.md#Choose%20Your%20Workflow)
+[[getting-started#Choose Your Workflow|Choose Your Workflow]]
+[Choose Your Workflow](getting-started.md#choose-your-workflow)
 
 
 Here's a relative link: [Obsidian Embeds Demo](obsidian-embeds-demo.md)
@@ -413,4 +413,4 @@ All of these formatting options should also appear in Obsidian, with some differ
 - **Callouts**: `> [!TYPE]`
 - **Horizontal rule**: `---`
 
-Further reading: [Obsidian Embeds Demo](posts/obsidian-embeds-demo.md)
+Further reading: [Obsidian Embeds Demo](obsidian-embeds-demo.md)

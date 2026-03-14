@@ -203,6 +203,48 @@
       "ariaLabel": "Toggle focus",
       "type": "external",
       "hidden": false
+    },
+    {
+      "id": "external-nova-nota",
+      "name": "Nova nota",
+      "ariaLabel": "Nova nota",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-nova-pasta",
+      "name": "Nova pasta",
+      "ariaLabel": "Nova pasta",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-mudar-ordena-o",
+      "name": "Mudar ordenação",
+      "ariaLabel": "Mudar ordenação",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-revelar-automaticamente-o-arquivo-atual",
+      "name": "Revelar automaticamente o arquivo atual",
+      "ariaLabel": "Revelar automaticamente o arquivo atual",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-expandir-tudo",
+      "name": "Expandir tudo",
+      "ariaLabel": "Expandir tudo",
+      "type": "external",
+      "hidden": false
+    },
+    {
+      "id": "external-recolher-tudo",
+      "name": "Recolher tudo",
+      "ariaLabel": "Recolher tudo",
+      "type": "external",
+      "hidden": false
     }
   ],
   "nativeExplorerButtonColors": {},

@@ -37,9 +37,9 @@ Every feature can be toggled on or off through a single configuration file. Enab
 ---
 
 ## Posts to Check Out
-- [[getting-started|Getting Started]]
+- [[../oldposts/getting-started|Getting Started]]
 - [Astro Suite Vault (Modular) Guide](posts/astro-suite-vault-modular-guide.md) 
 
 ---
-![Water droplet](attachments/water.png)
+![Water droplet](../posts/attachments/water.png)
 *Photo by [Herbert Goetsch](https://unsplash.com/@hg_photo?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
