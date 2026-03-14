@@ -193,7 +193,7 @@ export const siteConfig: SiteConfig = {
   // [CONFIG:SITE_AUTHOR]
   author: "Jonas",
   // [CONFIG:SITE_LANGUAGE]
-  language: "pt",
+  language: "pt-BR",
   // [CONFIG:FAVICON_THEME_ADAPTIVE]
   faviconThemeAdaptive: true, // If true, favicon switches between favicon-dark.png and favicon-light.png based on browser's system theme preference. If false, always uses favicon.png
   // [CONFIG:DEFAULT_OG_IMAGE_ALT]
@@ -201,7 +201,7 @@ export const siteConfig: SiteConfig = {
 
   // Global Settings
   // [CONFIG:THEME]
-  theme: "ayu", // Available themes: "minimal" | "oxygen" | "atom" | "ayu" | "catppuccin" | "charcoal" | "dracula" | "everforest" | "flexoki" | "gruvbox" | "macos" | "nord" | "obsidian" | "rose-pine" | "sky" | "solarized" | "things" | "custom"
+  theme: "oxygen", // Available themes: "minimal" | "oxygen" | "atom" | "ayu" | "catppuccin" | "charcoal" | "dracula" | "everforest" | "flexoki" | "gruvbox" | "macos" | "nord" | "obsidian" | "rose-pine" | "sky" | "solarized" | "things" | "custom"
   // [CONFIG:CUSTOM_THEME_FILE]
   customThemeFile: "custom", // Only used if theme is set to "custom" above. Filename in src/themes/custom/ (without .ts extension)
   // [CONFIG:AVAILABLE_THEMES]
