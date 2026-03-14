@@ -163,7 +163,7 @@ const shouldShowCoverImage = (() => {
             <span class="text-primary-300 dark:text-primary-600 hidden sm:inline">•</span>
             <span class="text-primary-300 dark:text-primary-600 sm:hidden">•</span>
             <span>
-              <span class="hidden sm:inline">{readingTime.text && readingTime.text !== 'read0' && readingTime.text !== '' ? readingTime.text : '1 min read'}</span>
+              <span class="hidden sm:inline">{readingTime.text && readingTime.text !== 'read0' && readingTime.text !== '' ? readingTime.text : '1 minuto de leitura'}</span>
               <span class="sm:hidden">{getReadingTimeMobile(readingTime)}</span>
             </span>
           </>
@@ -174,8 +174,8 @@ const shouldShowCoverImage = (() => {
             <span class="text-primary-300 dark:text-primary-600 hidden sm:inline">•</span>
             <span class="text-primary-300 dark:text-primary-600 sm:hidden">•</span>
             <span class="min-w-0">
-              <span class="hidden sm:inline">{wordCount === 1 ? '1 word' : `${wordCount} words`}</span>
-              <span class="sm:hidden">{wordCount === 1 ? '1 word' : `${wordCount.toLocaleString()} words`}</span>
+              <span class="hidden sm:inline">{wordCount === 1 ? '1 palavra' : `${wordCount} palavras`}</span>
+              <span class="sm:hidden">{wordCount === 1 ? '1 palavra' : `${wordCount.toLocaleString()} palavras`}</span>
             </span>
           </>
         )}

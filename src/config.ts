@@ -234,7 +234,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:FOOTER_ENABLED]
     enabled: true,
     // [CONFIG:FOOTER_CONTENT]
-    content: `© 2025 {author}. Built with the <a href="https://github.com/davidvkimball/astro-modular" target="_blank">Astro Modular</a> theme.`,
+    content: `© 2026 {author}. Feito com o tema <a href="https://github.com/davidvkimball/astro-modular" target="_blank">Astro Modular</a>, com carinho ❤️.`,
     // [CONFIG:FOOTER_SHOW_SOCIAL_ICONS]
     showSocialIconsInFooter: true,
   },
@@ -292,7 +292,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:PROFILE_PICTURE_ENABLED]
     enabled: true, 
     // [CONFIG:PROFILE_PICTURE_IMAGE]
-    image: "/profile.jpg", // Path to your profile image (place in public/ directory)
+    image: "/268011028.jpeg", // Path to your profile image (place in public/ directory)
     // [CONFIG:PROFILE_PICTURE_ALT]
     alt: "Profile picture",
     // [CONFIG:PROFILE_PICTURE_SIZE]
@@ -316,11 +316,8 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:NAVIGATION_PAGES]
     pages: [
       { title: "Posts", url: "/posts/" },
-      { title: "About", url: "/about/"},
-        //children: [
-        //  { title: "Privacy Policy", url: "/privacy-policy/" }
-       //] },
-      { title: "GitHub", url: "https://github.com/davidvkimball/astro-modular" }
+      { title: "Sobre", url: "/about/" },
+      { title: "Contato", url: "/projects/" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
     social: [
@@ -335,7 +332,7 @@ export const siteConfig: SiteConfig = {
   // Optional Content Types - Enable/disable optional content sections (takes priority over homeOptions)
   optionalContentTypes: {
     // [CONFIG:OPTIONAL_CONTENT_TYPES_PROJECTS]
-    projects: true, // Enable projects section
+    projects: false, // Enable projects section
     // [CONFIG:OPTIONAL_CONTENT_TYPES_DOCS]
     docs: false, // Enable documentation section
   },

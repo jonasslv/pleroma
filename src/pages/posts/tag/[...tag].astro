@@ -81,8 +81,8 @@ const endIndex = Math.min(postsPerPage, totalPosts);
 const paginatedPosts = filteredPosts.slice(startIndex, endIndex);
 
 // Generate SEO data
-const pageTitle = `Posts tagged "${tag}"`;
-const pageDescription = `All posts tagged with "${tag}"`;
+const pageTitle = `Posts com tag "${tag}"`;
+const pageDescription = `Todos os Posts com tag "${tag}"`;
 
 const seoData = {
   title: `${pageTitle} | ${siteConfig.title}`,
@@ -134,7 +134,7 @@ const pagination = {
           </div>
         </div>
         <p class="text-base text-primary-600 dark:text-primary-300">
-          Showing <strong>{filteredPosts.length}</strong> posts tagged with 
+          Mostrando todos os <strong>{filteredPosts.length}</strong> posts com tag 
           <span class="inline-flex items-center px-2 py-1 bg-highlight-100 dark:bg-highlight-900/30 text-highlight-800 dark:text-highlight-200 rounded text-sm font-medium ml-1">
             #{tag}
           </span>
@@ -146,7 +146,7 @@ const pagination = {
             class="inline-flex items-center text-sm text-primary-600 dark:text-primary-300 hover:text-primary-800 dark:hover:text-primary-200 transition-colors"
           >
             <Icon name="arrow-left" class="w-4 h-4 mr-1" />
-            Show all posts
+            Mostrar todos os Posts
           </a>
         </div>
       </header>
@@ -171,11 +171,11 @@ const pagination = {
             <div class="text-center py-16">
               <Icon name="tag" class="w-16 h-16 text-primary-400 dark:text-primary-500 mx-auto mb-6" />
               <h2 class="text-2xl font-semibold text-primary-900 dark:text-primary-50 mb-4">
-                No posts found
+                Nenhum post encontrado
               </h2>
               <p class="text-primary-600 dark:text-primary-300 mb-8 max-w-md mx-auto">
-                There are no posts tagged with "{tag}". Try browsing other tags or 
-                <a href="/posts" class="text-primary-600 dark:text-primary-300 hover:underline">view all posts</a>.
+                Não existe nenhum post encontrado com a tag "{tag}". Tente procurar outra tag ou 
+                <a href="/posts" class="text-primary-600 dark:text-primary-300 hover:underline">veja todos os posts</a>.
               </p>
             </div>
           )}

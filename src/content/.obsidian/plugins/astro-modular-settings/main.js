@@ -559,7 +559,7 @@ var init_WizardState = __esm({
             profilePicture: {
               enabled: ((_b = (_a = settings.optionalFeatures) == null ? void 0 : _a.profilePicture) == null ? void 0 : _b.enabled) || false,
               image: ((_d = (_c = settings.optionalFeatures) == null ? void 0 : _c.profilePicture) == null ? void 0 : _d.image) || "/profile.jpg",
-              alt: ((_f = (_e = settings.optionalFeatures) == null ? void 0 : _e.profilePicture) == null ? void 0 : _f.alt) || "Profile picture",
+              alt: ((_f = (_e = settings.optionalFeatures) == null ? void 0 : _e.profilePicture) == null ? void 0 : _f.alt) || "Profile Picture",
               size: ((_h = (_g = settings.optionalFeatures) == null ? void 0 : _g.profilePicture) == null ? void 0 : _h.size) || "md",
               url: ((_j = (_i = settings.optionalFeatures) == null ? void 0 : _i.profilePicture) == null ? void 0 : _j.url) || "",
               placement: ((_l = (_k = settings.optionalFeatures) == null ? void 0 : _k.profilePicture) == null ? void 0 : _l.placement) || "footer",
