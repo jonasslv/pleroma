@@ -75,6 +75,7 @@ A cerca de 2 anos antes, os Anúncios da Internet passaram a me recomendar baral
 Então vi um Baralho muito bonito, baseado nas muitas mitologias, Mitologia era algo que durante minha infância e adolescência me fascinava muito, porém com o tempo fui lendo menos e me importando menos com a cultura antiga.
 
 ![tarot-divine](attachments/tarot-divine.png)
+Tarot of The Divine, Yoshi Yoshitani
 
 Mas aquilo ainda clicava comigo fortemente, então resolvi comprar o tal baralho e já que estava com o brinquedo em mãos, por que não testar?
 Chamei vários amigos e comecei a tirar cartas para as perguntas do mesmo, pegava os símbolos e palavras-chaves de cada carta na internet e criava uma historinha para a tirada, juntava tudo tentando fazer sentido como algo Homogêneo.
@@ -115,7 +116,7 @@ Passei semanas nesse estado, obviamente muitas pessoas acharam isso estranho, pr
 
 Foi então que um dia me tranquei no quarto, desesperado pois eu já tinha perdido toda a esperança de que ia melhorar e eu sentia que podia ser possuído completamente por esse espírito a qualquer momento, me ajoelhei, orei chorando, sentia minha consciência se esvaindo, foi então que tive a visão de uma Freira me entregando uma Rosa.
 
-Nesse momento senti como se todo o peso e desespero que eu estivesse carregando fosse embora, recobrei a consciência, conseguia apenas chorar de Alívio e agradecer, não sei que Ser foi esse que me ajudou até então, mas hoje em dia acredito que tenha sido Teresa de Lisieux.
+Nesse momento senti como se todo o peso e desespero que eu estivesse carregando fosse embora, recobrei a consciência, conseguia apenas chorar de Alívio e agradecer, não tenho certeza qual foi esse Ser que me ajudou, mas hoje em dia acredito que tenha sido Teresa de Lisieux.
 
 A partir daí as coisas melhoraram, não foi tudo de instantâneo, ainda houveram muitos momentos tensos, mas o problema foi passando e passei a me sentir mais estável.
 
@@ -136,6 +137,7 @@ A ciência antiga, a obra alquímica, o conhecimento dos sábios fazia muito sen
 Tudo isso é o que me dá forças pra continuar agora e é o que pretendo falar muito sobre nesse blog.
 
 Por enquanto é isso, há tantas coisas que gostaria de falar, como era minha vida antes de receber esse chamado, o que eu pretendo fazer agora, qual a minha noção e ponto de vista sobre muitas das coisas que eu citei e meu alinhamento.
+
 Porém sinto que o que passo aqui é o suficiente por hora, agradeço a quem leu até o momento e espere por mais conteúdo, num mundo onde o superficial e o despersonalizado é o comum, pretendo ao menos fazer minha parte de não apagar a chama de meu espírito.
 
 
