@@ -146,26 +146,26 @@
 # Generated redirects from content aliases
 
 [[redirects]]
-  from = "/about-me"
-  to = "/about"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/about-us"
-  to = "/about"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/contact-me"
-  to = "/contact"
+  to = "/contato"
   status = 301
   force = true
 
 [[redirects]]
   from = "/contact-us"
-  to = "/contact"
+  to = "/contato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact"
+  to = "/contato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/thank-you"
+  to = "/obrigado"
   status = 301
   force = true
 
@@ -176,20 +176,14 @@
   force = true
 
 [[redirects]]
-  from = "/posts/astro-suite-vault-modular-guide"
-  to = "/posts/vault-cms-guide"
+  from = "/saiba-mais"
+  to = "/sobre"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/posts/astro-suite-obsidian-vault-guide-astro-modular"
-  to = "/posts/vault-cms-guide"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/posts/obsidian-vault-guide"
-  to = "/posts/vault-cms-guide"
+  from = "/about"
+  to = "/sobre"
   status = 301
   force = true
 

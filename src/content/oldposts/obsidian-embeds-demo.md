@@ -22,19 +22,19 @@ aliases:
 
 ### Video Files
 
-![[../posts/attachments/video.mp4|Eye drop video]]
+![[sample-folder-based-post/attachments/video.mp4|Eye drop video]]
 
 Video files are embedded as HTML5 video players with controls and responsive design.
 
 ### Audio Files
 
-![[../posts/attachments/sound.wav|sound.wav]]
+![[sample-folder-based-post/attachments/sound.wav|sound.wav]]
 
 Audio files are embedded as HTML5 audio players with controls and filename display.
 
 ### PDF Documents
 
-![[../posts/attachments/document.pdf|document.pdf]]
+![[sample-folder-based-post/attachments/document.pdf|document.pdf]]
 
 PDFs are embedded as inline viewers with download links.
 

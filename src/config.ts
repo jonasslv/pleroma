@@ -193,7 +193,7 @@ export const siteConfig: SiteConfig = {
   // [CONFIG:SITE_AUTHOR]
   author: "Jonas",
   // [CONFIG:SITE_LANGUAGE]
-  language: "pt-BR",
+  language: "pt",
   // [CONFIG:FAVICON_THEME_ADAPTIVE]
   faviconThemeAdaptive: true, // If true, favicon switches between favicon-dark.png and favicon-light.png based on browser's system theme preference. If false, always uses favicon.png
   // [CONFIG:DEFAULT_OG_IMAGE_ALT]
@@ -234,7 +234,7 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:FOOTER_ENABLED]
     enabled: true,
     // [CONFIG:FOOTER_CONTENT]
-    content: `© 2026 {author}. Feito com o tema <a href="https://github.com/davidvkimball/astro-modular" target="_blank">Astro Modular</a>, com carinho ❤️.`,
+    content: `© 2026 {author}. Feito com o Tema <a href="https://github.com/davidvkimball/astro-modular" target="_blank">Astro Modular</a>, com carinho ❤️.`,
     // [CONFIG:FOOTER_SHOW_SOCIAL_ICONS]
     showSocialIconsInFooter: true,
   },
@@ -292,9 +292,9 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:PROFILE_PICTURE_ENABLED]
     enabled: true, 
     // [CONFIG:PROFILE_PICTURE_IMAGE]
-    image: "/268011028.jpeg", // Path to your profile image (place in public/ directory)
+    image: "/profile.jpeg", // Path to your profile image (place in public/ directory)
     // [CONFIG:PROFILE_PICTURE_ALT]
-    alt: "Profile picture",
+    alt: "Imagem de Perfil",
     // [CONFIG:PROFILE_PICTURE_SIZE]
     size: "md", // "sm" (32px), "md" (48px), or "lg" (64px) - only affects footer placement
     // [CONFIG:PROFILE_PICTURE_URL]
@@ -316,8 +316,8 @@ export const siteConfig: SiteConfig = {
     // [CONFIG:NAVIGATION_PAGES]
     pages: [
       { title: "Posts", url: "/posts/" },
-      { title: "Sobre", url: "/about/" },
-      { title: "Contato", url: "/projects/" }
+      { title: "Sobre", url: "/sobre/" },
+      { title: "Contato", url: "/contato" }
     ],
     // [CONFIG:NAVIGATION_SOCIAL]
     social: [

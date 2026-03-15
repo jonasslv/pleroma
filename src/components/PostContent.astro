@@ -196,11 +196,11 @@ const processedImage = (() => {
         <!-- Post meta info -->
         <div class="p-6 bg-primary-50 dark:bg-primary-800/50 rounded-xl">
           <h3 class="font-semibold text-primary-900 dark:text-primary-50 mb-4">
-            Post Information
+            Informação sobre o Post
           </h3>
           <div class="space-y-3 text-sm">
             <div class="flex justify-between">
-              <span class="text-primary-600 dark:text-primary-300">Published</span>
+              <span class="text-primary-600 dark:text-primary-300">Publicado</span>
               <span class="text-primary-900 dark:text-primary-50">
                 {formatDate(post.data.date)}
               </span>
@@ -208,21 +208,21 @@ const processedImage = (() => {
 
             {readingTime && (
               <div class="flex justify-between">
-                <span class="text-primary-600 dark:text-primary-300">Reading time</span>
+                <span class="text-primary-600 dark:text-primary-300">Tempo para ler</span>
                 <span class="text-primary-900 dark:text-primary-50">{readingTime.text}</span>
               </div>
             )}
 
             {wordCount && (
               <div class="flex justify-between">
-                <span class="text-primary-600 dark:text-primary-300">Word count</span>
+                <span class="text-primary-600 dark:text-primary-300">Número de Palavras</span>
                 <span class="text-primary-900 dark:text-primary-50">{wordCount.toLocaleString()}</span>
               </div>
             )}
 
             {post.data.targetKeyword && (
               <div class="flex justify-between">
-                <span class="text-primary-600 dark:text-primary-300">Target keyword</span>
+                <span class="text-primary-600 dark:text-primary-300">Palavra-Chave</span>
                 <span class="text-primary-900 dark:text-primary-50 text-right">{post.data.targetKeyword}</span>
               </div>
             )}

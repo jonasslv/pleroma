@@ -1,5 +1,5 @@
 {
-  "runWizardOnStartup": true,
+  "runWizardOnStartup": false,
   "currentTemplate": "standard",
   "currentTheme": "oxygen",
   "customThemeFile": "custom",
@@ -45,12 +45,12 @@
         "url": "/posts/"
       },
       {
-        "title": "About",
-        "url": "/about/"
+        "title": "Sobre",
+        "url": "/sobre/"
       },
       {
-        "title": "GitHub",
-        "url": "https://github.com/davidvkimball/astro-modular"
+        "title": "Contato",
+        "url": "/contato"
       }
     ],
     "social": [
@@ -181,8 +181,8 @@
   "optionalFeatures": {
     "profilePicture": {
       "enabled": true,
-      "image": "/profile.jpg",
-      "alt": "Profile picture",
+      "image": "/profile.jpeg",
+      "alt": "Imagem de Perfil",
       "size": "md",
       "url": "",
       "placement": "footer",
