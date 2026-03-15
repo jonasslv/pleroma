@@ -217,7 +217,7 @@ Here's the same internal link with an anchor formatted in 4 different ways (both
 [Choose Your Workflow](getting-started.md#choose-your-workflow)
 
 
-Here's a relative link: [Obsidian Embeds Demo](obsidian-embeds-demo.md)
+Here's a relative link: [Obsidian Embeds Demo](../posts/noite-escura-da-alma.md)
 ### Reference Links
 
 This is a [reference link][1] and this is another [reference link][markdown].
@@ -413,4 +413,4 @@ All of these formatting options should also appear in Obsidian, with some differ
 - **Callouts**: `> [!TYPE]`
 - **Horizontal rule**: `---`
 
-Further reading: [Obsidian Embeds Demo](obsidian-embeds-demo.md)
+Further reading: [Obsidian Embeds Demo](../posts/noite-escura-da-alma.md)

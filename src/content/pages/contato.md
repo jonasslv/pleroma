@@ -87,7 +87,7 @@ form.addEventListener("submit", async (e) => {
   alert(result.message);
 
   if(result.success){
-    form.reset;
+    form.reset();
   }
 });
 </script>

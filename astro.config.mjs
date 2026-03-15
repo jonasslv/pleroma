@@ -93,6 +93,8 @@ export default defineConfig({
   '/privacy': '/privacy-policy',
   '/saiba-mais': '/sobre',
   '/about': '/sobre',
+  '/posts/blog-post': '/posts/noite-escura-da-alma',
+  '/posts/noite-escura': '/posts/noite-escura-da-alma',
   '/docs/api-reference': '/docs/api',
   '/docs/astro-modular-configuration': '/docs/configuration',
   '/docs/sourcetree-and-git': '/docs/sourcetree-and-git-setup'

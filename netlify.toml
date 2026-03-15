@@ -188,6 +188,18 @@
   force = true
 
 [[redirects]]
+  from = "/posts/blog-post"
+  to = "/posts/noite-escura-da-alma"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/noite-escura"
+  to = "/posts/noite-escura-da-alma"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/docs/api-reference"
   to = "/docs/api"
   status = 301
