@@ -89,4 +89,5 @@ form.addEventListener("submit", async (e) => {
   if(result.success){
     form.reset;
   }
+});
 </script>
