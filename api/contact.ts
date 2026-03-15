@@ -23,14 +23,11 @@ export default async function handler(req, res) {
     }
   );
 
-    const captchaData = await verify.json();
+  const captchaData = await verify.json();
 
-    if (!captchaData.success) {
-        return new Response(
-        JSON.stringify({ message: "Captcha Falhou" }),
-        { status: 400 }
-    );
-  } 
+  if (!captchaData.success) {
+    return res.status(400).json({ success:false, message: "Erro no Captcha, tente novamente!" });
+  }
 
   try {
     await resend.emails.send({
@@ -45,15 +42,9 @@ export default async function handler(req, res) {
       `
     });
 
-    return new Response(
-      JSON.stringify({ message: "Mensagem enviada!" }),
-      { status: 200 }
-    );
+    return res.status(200).json({ success:true, message: "Mensagem Enviada!" });
 
   } catch (error) {
-    return new Response(
-      JSON.stringify({ message: "Email Falhou" }),
-      { status: 500 }
-    );
+    return res.status(500).json({ success:false, message: "Email Falhou!" });
   }
 };
