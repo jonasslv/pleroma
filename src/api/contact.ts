@@ -6,7 +6,7 @@ const resend = new Resend(import.meta.env.RESEND_API_KEY);
 export const POST: APIRoute = async ({ request }) => {
   const { name, email, message, captcha } = await request.json();
 
-  /*
+  
   // verify captcha
   const verify = await fetch(
     "https://www.google.com/recaptcha/api/siteverify",
@@ -26,7 +26,7 @@ export const POST: APIRoute = async ({ request }) => {
         JSON.stringify({ message: "Captcha Falhou" }),
         { status: 400 }
     );
-  }  */
+  } 
 
   try {
     await resend.emails.send({

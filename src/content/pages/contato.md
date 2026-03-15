@@ -9,9 +9,13 @@ aliases:
   - contact-us
   - contact
 ---
+
 ![](attachments/selos-oraculares.png)
 	Se tem alguma dúvida ou quer conhecer o meu trabalho como Terapeuta Holístico (Oraculista e Astrósofo).
 
+<script>
+window.PUBLIC_RECAPTCHA_SITE_KEY = import.meta.env.PUBLIC_RECAPTCHA_SITE_KEY;
+</script>
 
 <form id="contact-form" class="form-sleek">
 
@@ -45,12 +49,21 @@ aliases:
     placeholder="Mensagem"
   ></textarea>
 
-  <div class="g-recaptcha" data-sitekey="YOUR_SITE_KEY"></div>
+  <div class="g-recaptcha" id="captcha"></div>
+
+  <script>
+  document.getElementById("captcha").setAttribute(
+    "data-sitekey",
+    window.RECAPTCHA_SITE_KEY
+  );
+  </script>
 
   <button type="submit" class="btn btn-primary w-full">
     Enviar Mensagem
   </button>
 </form>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
 
 <script>
 const form = document.getElementById("contact-form");
@@ -59,15 +72,12 @@ form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
   const data = new FormData(form);
-  /*
-  add script src="https://www.google.com/recaptcha/api.js"
-
   const captcha = grecaptcha.getResponse();
 
   if (!captcha) {
     alert("Por favor confirme o captcha.");
     return;
-  } */
+  }
 
   const res = await fetch("/api/contact", {
     method: "POST",
