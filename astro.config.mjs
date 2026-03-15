@@ -33,7 +33,6 @@ const DEPLOYMENT_PLATFORM = process.env.DEPLOYMENT_PLATFORM || 'netlify';
 
 export default defineConfig({
   site: siteConfig.site,
-  output: "server",
 
   deployment: {
     platform: DEPLOYMENT_PLATFORM
@@ -86,7 +85,6 @@ export default defineConfig({
   devToolbar: {
     enabled: true
   },
-
   redirects: (process.env.NODE_ENV !== 'production' && process.env.NODE_ENV !== 'build') ? {
   '/contact-me': '/contato',
   '/contact-us': '/contato',
@@ -99,8 +97,7 @@ export default defineConfig({
   '/docs/astro-modular-configuration': '/docs/configuration',
   '/docs/sourcetree-and-git': '/docs/sourcetree-and-git-setup'
 } : {},
-
-  image: {
+image: {
       service: {
         entrypoint: 'astro/assets/services/sharp',
         config: {

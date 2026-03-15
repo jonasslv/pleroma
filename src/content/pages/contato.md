@@ -52,8 +52,6 @@ aliases:
   </button>
 </form>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
-
 <script>
 const form = document.getElementById("contact-form");
 
@@ -61,12 +59,15 @@ form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
   const data = new FormData(form);
+  /*
+  add script src="https://www.google.com/recaptcha/api.js"
+
   const captcha = grecaptcha.getResponse();
 
   if (!captcha) {
     alert("Por favor confirme o captcha.");
     return;
-  }
+  } */
 
   const res = await fetch("/api/contact", {
     method: "POST",
