@@ -1,7 +1,7 @@
 import type { APIRoute } from "astro";
 import { Resend } from "resend";
 
-const resend = new Resend(import.meta.env.RESEND_API_KEY);
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 export const POST: APIRoute = async ({ request }) => {
   const { name, email, message, captcha } = await request.json();
@@ -15,7 +15,7 @@ export const POST: APIRoute = async ({ request }) => {
       headers: {
         "Content-Type": "application/x-www-form-urlencoded"
       },
-      body: `secret=${import.meta.env.GOOGLE_SECRET_KEY}&response=${captcha}`
+      body: `secret=${process.env.GOOGLE_SECRET_KEY}&response=${captcha}`
     }
   );
 
@@ -31,7 +31,7 @@ export const POST: APIRoute = async ({ request }) => {
   try {
     await resend.emails.send({
       from: "Pleroma Blog <jonas@blogpleroma.com>",
-      to: import.meta.env.OWNER_MAIL,
+      to: process.env.OWNER_MAIL ?? "",
       subject: "Mensagem do Pleroma",
       html: `
         <h2>Nova Mensagem</h2>
