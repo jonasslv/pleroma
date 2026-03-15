@@ -1,10 +1,14 @@
-import type { APIRoute } from "astro";
 import { Resend } from "resend";
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
-export const POST: APIRoute = async ({ request }) => {
-  const { name, email, message, captcha } = await request.json();
+export default async function handler(req, res) {
+
+  if (req.method !== "POST") {
+    return res.status(405).json({ error: "Method not allowed" });
+  }
+
+  const { name, email, message, captcha } = await req.body;
 
   
   // verify captcha
