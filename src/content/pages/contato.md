@@ -85,5 +85,8 @@ form.addEventListener("submit", async (e) => {
 
   const result = await res.json();
   alert(result.message);
-});
+
+  if(result.success){
+    form.reset;
+  }
 </script>
