@@ -13,9 +13,6 @@ aliases:
 ![](attachments/selos-oraculares.png)
 	Se tem alguma dúvida ou quer conhecer o meu trabalho como Terapeuta Holístico (Oraculista e Astrósofo).
 
-<script>
-window.PUBLIC_RECAPTCHA_SITE_KEY = import.meta.env.PUBLIC_RECAPTCHA_SITE_KEY;
-</script>
 
 <form id="contact-form" class="form-sleek">
 
@@ -49,14 +46,7 @@ window.PUBLIC_RECAPTCHA_SITE_KEY = import.meta.env.PUBLIC_RECAPTCHA_SITE_KEY;
     placeholder="Mensagem"
   ></textarea>
 
-  <div class="g-recaptcha" id="captcha"></div>
-
-  <script>
-  document.getElementById("captcha").setAttribute(
-    "data-sitekey",
-    window.RECAPTCHA_SITE_KEY
-  );
-  </script>
+  <div class="g-recaptcha" id="captcha" data-sitekey="6Lf7wYosAAAAACtWUtuN8OQxuLcmvEW7I_3sKgTG"></div>
 
   <button type="submit" class="btn btn-primary w-full">
     Enviar Mensagem
