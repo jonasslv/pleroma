@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "id": "cincia-e-espiritualidade",
+      "type": "post",
+      "title": "Ciência e Espiritualidade",
+      "slug": "cincia-e-espiritualidade",
+      "connections": 0
+    },
+    {
       "id": "noite-escura-da-alma",
       "type": "post",
       "title": "Noite Escura da Alma",
@@ -10,9 +17,9 @@
   ],
   "connections": [],
   "metadata": {
-    "totalPosts": 1,
+    "totalPosts": 2,
     "totalConnections": 0,
     "maxNodesApplied": false,
-    "originalNodeCount": 1
+    "originalNodeCount": 2
   }
 }
