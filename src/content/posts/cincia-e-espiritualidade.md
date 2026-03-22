@@ -79,3 +79,5 @@ E dentro dessa busca por Poder, uma estratégia clássica criada é a de "Nós c
 A polaridade é alimentada por aqueles que detém os meios de comunicação e produção, por um simples motivo: Isso nos mantém ocupado, não perdemos tempo questionando sobre a realidade ou sobre a intenção dos poderosos.
 
 O extremismo é muito prejudicial e ameaça nossa própria existência, devemos ter os braços e a mente aberta para aqueles que julgamos nosso oposto, caso contrário, acabaremos por comprovar a Teoria do Grande Filtro.
+
+*(Esse texto foi criado sem uso de IA.)*
