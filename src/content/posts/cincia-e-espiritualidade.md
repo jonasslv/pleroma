@@ -1,7 +1,7 @@
 ---
 title: Ciência e Espiritualidade
 date: 2026-03-22
-description: Inimigos? Ou complementos?
+description: Inimigos ou complementos?
 tags:
   - espiritualidade
   - ciencia
@@ -24,7 +24,7 @@ Vivemos talvez na época mais polarizada do nosso mundo, onde é exigido o posic
 É de tal time ou daquele outro? É de esquerda ou de direita? Gosta de tal figura polêmica ou não?
 Prefiro me abster desse tipo de indagação atualmente, a sabedoria Chinesa enxerga os polos não como contrapostos, mas como **complementos**.
 
-Essa busca por um posicionamento firme não poderia deixar de ser diferente para aqueles que acreditam OU na ciência OU na espiritualidade, porém nem sempre foi assim, na realidade, essa revolta em relação ao espírito é recente, a cerca de 200 anos atrás, não existia ciência, o que seria chamado hoje de estudo cientifico se referiria a filosofias naturais.
+Essa busca por um posicionamento firme não poderia deixar de ser diferente para aqueles que acreditam OU na ciência OU na espiritualidade, porém nem sempre foi assim, na realidade, essa revolta em relação ao espírito é recente, a cerca de 200 anos atrás não existia ciência, o que seria chamado hoje de estudo cientifico se referiria a filosofias naturais.
 
 As filosofias naturais eram muito mais abertas em relação a existência do espírito e se não fosse grandes nomes como Paracelso, um Alquimista e revolucionário médico, que acreditava totalmente na transcendência da matéria, talvez jamais nossa química e medicina teria se desenvolvido do jeito que se desenvolveu.
 
