@@ -80,3 +80,5 @@ Tudo o que precisamos pra viver jaz dentro de nós mesmos, cada sentimento, cada
 Não existe uma verdadeira separação em nossos Sistemas, temos que compreender que a separação é apenas virtual para fins de estudo pois corpo, mente e sentimento trabalham juntos e em constante estado de compensação, se a mente se esgota, corpo e sentimento sofrem e por aí vai.
 
 É essencial que se ouça e entenda a linguagem interior tanto quanto nos esforçamos para entender e observar o exterior, pois só assim somos capazes de encontrar o equilíbrio para podermos voltar a sorrir.
+
+*(Esse texto foi criado sem uso de IA.)*
