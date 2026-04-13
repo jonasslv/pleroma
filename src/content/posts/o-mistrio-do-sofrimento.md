@@ -25,7 +25,7 @@ aliases:
   - pressao
   - psicologia
 ---
-### A Dor Sombria
+## A Dor Sombria
 
 Aproximadamente 1 em cada 6 pessoas no mundo sofre com alguma desordem de saúde mental, num país como o Brasil se estima que ao menos 11% das pessoas já sofreu de depressão.
 
@@ -38,7 +38,7 @@ Nada disso exclui ou apaga a Dor interna que muitos sentem, pelo contrário, só
 ![perpetuo](attachments/perpetuo.png)
 
 ---
-### O Sentido da Vida
+## O Sentido da Vida
 
 Não cabe a mim refletir profundamente sobre o sentido de viver, cada Ser Humano deve buscar sua própria resposta e é aí que reside o maior problema, muitas pessoas hoje em dia não o procuram.
 É muito difícil viver sem um forte bastião, um suporte sólido que se use para acordar dia após dia, porém a culpa não é do indivíduo, a sociedade não se preocupa nem um pouco em valorizar o conhecimento profundo e a sabedoria, o foco é claro e simples, criar mão de obra para um sistema prestes a falir.
@@ -52,7 +52,7 @@ Conforme a sabedoria chinesa explica: É no momento em que se aplica a maior for
 ![metamorfose](attachments/metamorfose.jpg)
  
 ---
-### O Agente da Metamorfose
+## O Agente da Metamorfose
 
 Deixo claro que não pretendo reduzir a dor ou o sofrimento de ninguém, quero apenas destacar alguns pontos como alguém que já muito passou por períodos de profunda depressão e que após se recuperar, tirou algumas conclusões sobre si e o entorno.
 
@@ -66,7 +66,7 @@ Se por um mistério da vida nós somos capazes de levantar e nos recuperar um pa
 ![espelho](attachments/espelho.png)
 
 ---
-### Auto-Conhecimento, o Bem mais valioso do mundo
+## Auto-Conhecimento, o Bem mais valioso do mundo
 
 Nem todo o ouro, diamantes, eletrônicos, dinheiro e prazeres do mundo podem substituir o "conhece-te a ti mesmo", somente através do contentamento consigo mesmo, de saber quem se é, é que podemos chegar a plena felicidade.
 
