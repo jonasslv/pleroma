@@ -1,10 +1,24 @@
 {
   "nodes": [
     {
+      "id": "anjos-e-demnios",
+      "type": "post",
+      "title": "Anjos e Demônios",
+      "slug": "anjos-e-demnios",
+      "connections": 0
+    },
+    {
       "id": "cincia-e-espiritualidade",
       "type": "post",
       "title": "Ciência e Espiritualidade",
       "slug": "cincia-e-espiritualidade",
+      "connections": 0
+    },
+    {
+      "id": "conhecendo-a-si-mesmo-i",
+      "type": "post",
+      "title": "Conhecendo a Si Mesmo I",
+      "slug": "conhecendo-a-si-mesmo-i",
       "connections": 0
     },
     {
@@ -13,13 +27,20 @@
       "title": "Noite Escura da Alma",
       "slug": "noite-escura-da-alma",
       "connections": 0
+    },
+    {
+      "id": "o-mistrio-do-sofrimento",
+      "type": "post",
+      "title": "O Mistério do Sofrimento",
+      "slug": "o-mistrio-do-sofrimento",
+      "connections": 0
     }
   ],
   "connections": [],
   "metadata": {
-    "totalPosts": 2,
+    "totalPosts": 5,
     "totalConnections": 0,
     "maxNodesApplied": false,
-    "originalNodeCount": 2
+    "originalNodeCount": 5
   }
 }

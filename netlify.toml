@@ -188,6 +188,18 @@
   force = true
 
 [[redirects]]
+  from = "/posts/conhecendo-a-si-mesmo"
+  to = "/posts/conhecendo-a-si-mesmo-i"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/blog-post"
+  to = "/posts/conhecendo-a-si-mesmo-i"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/posts/blog-post"
   to = "/posts/noite-escura-da-alma"
   status = 301
@@ -196,6 +208,36 @@
 [[redirects]]
   from = "/posts/noite-escura"
   to = "/posts/noite-escura-da-alma"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/sofrimento"
+  to = "/posts/o-mistrio-do-sofrimento"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/vida-adulta"
+  to = "/posts/o-mistrio-do-sofrimento"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/carreira"
+  to = "/posts/o-mistrio-do-sofrimento"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/pressao"
+  to = "/posts/o-mistrio-do-sofrimento"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/psicologia"
+  to = "/posts/o-mistrio-do-sofrimento"
   status = 301
   force = true
 

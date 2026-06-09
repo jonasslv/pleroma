@@ -10,7 +10,7 @@ tags:
   - inconsciente
   - dualidade
   - ciencia
-image: "[](attachments/reflexo.png)"
+image: "[[attachments/reflexo.png]]"
 imageAlt: Refletindo a si mesmo.
 imageOG: true
 hideCoverImage: false
@@ -27,7 +27,7 @@ Essa é uma pergunta tão profunda e que pode ser respondida em tantas escalas. 
 
 Enfim poderia ficar o dia todo nos separando em partes, pois as partes maiores são sempre feitas de partes menores e menores... Mas aqui nesse momento para fins de reflexão e autoanálise vamos chegar a uma limitação, jamais devemos esquecer de nossa natureza infinita e das diversas partes que nos faz em Um. Porém como pesquisadores sem hubris, vamos nos ater a uma teoria específica.
 
-![jung-psique](attachments/jung-psique.webp)
+![jung-psique|360](attachments/jung-psique.webp)
 ## Contexto Psicológico
 
 Em frente vamos definir o Ser Humano em sua totalidade psíquica como consciente e inconsciente, utilizando a obra de Jung que foi vastamente testada clinicamente em casos reais pelo mesmo. 
@@ -45,7 +45,7 @@ Porém, se percebemos o quão pequeno é o nosso mundo e o quão irrelevante é 
 Mas nesse ponto de vantagem, somos capazes de enxergar tudo o que está na escuridão e dói, nos causa repulsa, aquilo faz parte de nós mesmo? Então somos os culpados pelas coisas ruins que nos acontecem? Eu não mereço ser o centro das atenções, o coitado, a vítima?
 Rapidamente corremos de volta para nosso cantinho aconchegante.
 
-![sombra|637](attachments/sombra.png)
+![sombra|423](attachments/sombra.png)
 
 ## A Sombra, Arquétipos e Complexos
 
@@ -68,7 +68,7 @@ O segredo é o conhecimento, a Luz do conhecimento ilumina a escuridão da Mente
 Esses complexos podem estar alinhados a relações com Pai, Mãe, Religião, Sobrevivência, Sexualidade e muitos outros.
 A maneira que fantasiamos e distorcemos o mundo através de nossos complexos, cria a nossa realidade interior, nenhum Ser Humano enxerga o mundo da mesma forma que o outro, acredito que o primeiro passo para descobrirmos a nós mesmos antes de mergulhar nesse mundo de arquétipos e complexos é descobrir que tipo de pessoa nós somos, pois o tipo de pessoa que somos é a "Reação", da "Ação" que os complexos formaram em nós através do Tempo.
 
-![bussula|518](attachments/bussula.png)
+![bussula|393](attachments/bussula.png)
 
 ## Funções Psicológicas
 
@@ -97,7 +97,7 @@ Pessoas que possuem como função psicológica principal a Sensação, levam sem
 
 Pessoas que possuem como função psicológica principal a Intuição sempre visam criar algo, descobrir algo e ser inovadores, estar na ponta e no limite das suas capacidades, porém tem dificuldade de ter uma vida estável e se manter numa situação repetitiva e previsível. Ao se tornarem muito desequilibradas não possuem ânimo e paciência para nada que não seja exatamente o seu foco naquele momento, também os levando a evitar qualquer conceito que não seja seu próprio, não dando ouvidos ao que não vier de sua voz interna.
 
-![exercicio](attachments/exercicio.png)
+![exercicio|257](attachments/exercicio.png)
 ## Exercício Mental
 
 Tendo essa resumida e humilde descrição apresentada, devemos saber que todos nós temos essas 4 funções, mas pelas nossas experiências e predisposições acabamos por nutrir algumas delas acima das outras. Uma pessoa no centro de Si, ou seja, no centro da sala, que enxerga claramente sua escuridão, possui plena consciência das 4 linguagens de sua psique, se temos interesse no autoconhecimento é essencial que estejamos sempre em contato com essas funções sem reduzir as outras.
