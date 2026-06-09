@@ -42,7 +42,7 @@ Nesse caso, viramos as costas para tudo o que é desconfortável e inconveniente
 
 Porém, se percebemos o quão pequeno é o nosso mundo e o quão irrelevante é o pequeno canto em que nos escondemos, passamos a querer explorar mais esse ambiente e então notamos que o local mais adequado a se estar, onde se há a verdadeira segurança é no centro do ambiente, entre a luz e a escuridão.
 
-Mas nesse ponto de vantagem, somos capazes de enxergar tudo o que está na escuridão e dói, nos causa repulsa, aquilo faz parte de nós mesmo? Então somos os culpados pelas coisas ruins que nos acontecem? Eu não mereço ser o centro das atenções, o coitado, a vítima?
+Mas nesse ponto de vantagem, somos capazes de enxergar tudo o que está na escuridão e dói, nos causa repulsa, aquilo faz parte de nós mesmo? Então somos os responsáveis pelas coisas ruins que nos acontecem? Eu não mereço ser o centro das atenções, o coitado, a vítima?
 Rapidamente corremos de volta para nosso cantinho aconchegante.
 
 ![sombra|423](attachments/sombra.png)
@@ -52,7 +52,7 @@ Rapidamente corremos de volta para nosso cantinho aconchegante.
 Olhar pra dentro dói, se você nunca sentiu vergonha de algo que fez, ou se você nunca se achou ridículo por carregar alguma mágoa ou desaforo de infância e vestir aquilo como se fosse seu escudo até hoje é porque você nunca verdadeiramente olhou para dentro.
 
 Tudo o que evitamos observar está lá, essa é a nossa sombra, é como um Ser selvagem, pilhando, quebrando e transformando em Caos tudo o que toca.
-Ela nunca deixa de existir, quanto menos olhamos para a mesma, mais força ela tem e ela influencia diretamente nossas ações, a maneira que vemos o mundo e as pessoas. 
+Ela nunca deixa de existir, quanto menos olhamos para a mesma, mais força ela tem e ela influencia diretamente nossas ações, a maneira que vemos o mundo e que vemos as pessoas. 
 
 Os pensamentos e sentimentos que temos são altamente distorcidos e modulados por nossas sombras. Elas são as guardiãs do caminho entre a mente e o coração enquanto não buscamos esse entendimento de nós mesmos.
 
