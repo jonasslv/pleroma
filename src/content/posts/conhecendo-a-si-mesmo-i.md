@@ -64,8 +64,8 @@ Todo complexo por trás é apoiado por um símbolo arcaico, também chamados de 
 
 Então o que fazemos? Devemos lutar contra esses monstros antediluvianos ancestrais? Devemos nos render a eles e virar marionetes de nós mesmos?
 A resposta é não, não devemos lutar ou nos render, devemos nos aliar.
-Conforme dito, em nossa psique nada é por acaso, tudo tem um motivo, eles não estão lá por acaso, instintivamente são nossos protetores e guardiões, conscientemente são nossas maiores fontes de força e sentimento.
-O segredo é o conhecimento, a Luz do conhecimento ilumina a escuridão da Mente.
+Conforme dito, em nossa psique nada é por acaso, tudo tem um motivo, os complexos instintivamente são nossos protetores e guardiões da consciência e  conscientemente são nossas maiores fontes de força e sentimento.
+O segredo é o conhecimento, a Luz do conhecimento ilumina a escuridão dos complexos.
 
 Esses complexos podem estar alinhados a relações com Pai, Mãe, Religião, Sobrevivência, Sexualidade e muitos outros.
 A maneira que fantasiamos e distorcemos o mundo através de nossos complexos, cria a nossa realidade interior, nenhum Ser Humano enxerga o mundo da mesma forma que o outro, acredito que o primeiro passo para descobrirmos a nós mesmos antes de mergulhar nesse mundo de arquétipos e complexos é descobrir que tipo de pessoa nós somos, pois o tipo de pessoa que somos é a "Reação", da "Ação" que os complexos formaram em nós através do Tempo.
