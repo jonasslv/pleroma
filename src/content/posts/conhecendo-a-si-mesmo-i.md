@@ -49,10 +49,12 @@ Rapidamente corremos de volta para nosso cantinho aconchegante.
 
 ## A Sombra, Arquétipos e Complexos
 
-Olhar pra dentro dói, se você nunca sentiu vergonha de algo que fez, ou se nunca se achou ridículo por carregar alguma mágoa ou desaforo de infância e vestir aquilo como se fosse seu escudo até hoje é porque você nunca verdadeiramente olhou para dentro.
+Olhar pra dentro dói, se você nunca sentiu vergonha de algo que fez, ou se você nunca se achou ridículo por carregar alguma mágoa ou desaforo de infância e vestir aquilo como se fosse seu escudo até hoje é porque você nunca verdadeiramente olhou para dentro.
 
-Tudo o que evitamos observar está lá, é a nossa sombra, é como um Ser selvagem, pilhando, quebrando e transformando em Caos tudo o que toca.
-Ela não deixa de existir e influencia diretamente nossas ações, a maneira que vemos o mundo e as pessoas. Os pensamentos e sentimentos que temos são altamente distorcidos e modulados por nossas sombras. Elas são as guardiãs do caminho entre a mente e o coração enquanto não buscamos esse entendimento de nós mesmos.
+Tudo o que evitamos observar está lá, essa é a nossa sombra, é como um Ser selvagem, pilhando, quebrando e transformando em Caos tudo o que toca.
+Ela nunca deixa de existir, quanto menos olhamos para a mesma, mais força ela tem e ela influencia diretamente nossas ações, a maneira que vemos o mundo e as pessoas. 
+
+Os pensamentos e sentimentos que temos são altamente distorcidos e modulados por nossas sombras. Elas são as guardiãs do caminho entre a mente e o coração enquanto não buscamos esse entendimento de nós mesmos.
 
 Quando sentimos raiva, criamos expectativas ou fantasiamos situações que não existem normalmente é obra de nossas sombras, essas que são formadas por agrupamentos gravitacionais chamados de complexos. Complexos são formações inconscientes de acontecimentos que nos marcaram fortemente e que decidimos relegar ao inconsciente por não darmos a devida atenção e desprendimento na luz da consciência.
 
@@ -73,7 +75,7 @@ A maneira que fantasiamos e distorcemos o mundo através de nossos complexos, cr
 ## Funções Psicológicas
 
 Temos também interfaces que são nossa maneira de interagir com o externo e o interno, que podem ser consideradas clarões de luz na escuridão, como pequenos fósforos que acendem e revelam novas porções da escuridão que podem se tornar conscientes, tais interfaces podem ser divididas entre "Sentimento, Pensamento*, Sensação e Intuição". São as funções psicológicas que todo Ser Humano possuí.
-Essas funções são a linguagem de nosso inconsciente, é a maneira que a nossa psique tem de levar a informação que precisamos nos conscientizar, já que o inconsciente não segue a razão nem a lógica.
+Essas funções são a linguagem de nosso inconsciente, é a maneira que a nossa psique tem de nos mostrar a informação que precisamos nos conscientizar, já que o inconsciente não segue a razão nem a lógica.
 
 * Por Pensamento, se difere de imaginação ou reflexão, é a ideia espontânea da mente.
 
