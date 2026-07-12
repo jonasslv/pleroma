@@ -53,7 +53,7 @@ Os arquétipos podem ser melhores observados através das vivências diretas com
 
 
 ![storm](attachments/storm.png)
-# O Inconsciente
+## O Inconsciente
 
 O inconsciente muitas vezes é tratado como algo alienígena, do lado de fora, algo hostil, algo que deveria ser descartado, quando é totalmente o contrário. É algo que está do lado de dentro, que vivenciamos a todo momento e faz parte de nós e que tem o papel de nos ajudar e não de nos prejudicar.
 
