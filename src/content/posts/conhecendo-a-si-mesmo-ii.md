@@ -1,7 +1,7 @@
 ---
-title: Conhecendo a Si Mesmo-II
+title: "Conhecendo a Si Mesmo II"
 date: 2026-07-12
-description: Quais são os pilares de nosso psicológico
+description: Os pilares do mecanismo psicológico.
 tags:
   - autoconhecimento
   - jung
@@ -18,6 +18,7 @@ hideTOC: false
 targetKeyword: conhecendo a si2
 draft: false
 ---
+
 ## Pré-consciente
 
 Supondo que trabalhamos na reflexão do primeiro post dessa série [Conhecendo a Si Mesmo I](posts/conhecendo-a-si-mesmo-i.md). É hora de aprofundarmos um pouco mais no funcionamento de nossa *psique*.

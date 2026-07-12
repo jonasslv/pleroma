@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "id": "a-teoria-do-caos",
+      "type": "post",
+      "title": "A Teoria do Caos",
+      "slug": "a-teoria-do-caos",
+      "connections": 0
+    },
+    {
       "id": "anjos-e-demnios",
       "type": "post",
       "title": "Anjos e Demônios",
@@ -19,7 +26,14 @@
       "type": "post",
       "title": "Conhecendo a Si Mesmo I",
       "slug": "conhecendo-a-si-mesmo-i",
-      "connections": 0
+      "connections": 1
+    },
+    {
+      "id": "conhecendo-a-si-mesmo-ii",
+      "type": "post",
+      "title": "Conhecendo a Si Mesmo-II",
+      "slug": "conhecendo-a-si-mesmo-ii",
+      "connections": 1
     },
     {
       "id": "noite-escura-da-alma",
@@ -36,11 +50,17 @@
       "connections": 0
     }
   ],
-  "connections": [],
+  "connections": [
+    {
+      "source": "conhecendo-a-si-mesmo-ii",
+      "target": "conhecendo-a-si-mesmo-i",
+      "type": "link"
+    }
+  ],
   "metadata": {
-    "totalPosts": 5,
-    "totalConnections": 0,
+    "totalPosts": 7,
+    "totalConnections": 1,
     "maxNodesApplied": false,
-    "originalNodeCount": 5
+    "originalNodeCount": 7
   }
 }

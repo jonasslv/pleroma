@@ -79,7 +79,7 @@
     "quickActions": {
       "enabled": true,
       "toggleMode": true,
-      "graphView": true,
+      "graphView": false,
       "changeTheme": true
     }
   },
@@ -115,7 +115,7 @@
       "linkedMentionsCompact": false
     },
     "graphView": {
-      "enabled": true,
+      "enabled": false,
       "showInSidebar": true,
       "maxNodes": 100,
       "showOrphanedPosts": true
@@ -147,7 +147,7 @@
     "readingTime": true,
     "linkedMentions": true,
     "linkedMentionsCompact": false,
-    "graphView": true,
+    "graphView": false,
     "postNavigation": true,
     "hideScrollBar": false,
     "scrollToTop": true,
@@ -161,7 +161,7 @@
     "quickActions": {
       "enabled": true,
       "toggleMode": true,
-      "graphView": true,
+      "graphView": false,
       "changeTheme": true
     }
   },

@@ -281,7 +281,7 @@ export const siteConfig: SiteConfig = {
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_TOGGLE_MODE]
       toggleMode: true,
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_GRAPH_VIEW]
-      graphView: true,
+      graphView: false,
       // [CONFIG:COMMAND_PALETTE_QUICK_ACTIONS_CHANGE_THEME]
       changeTheme: true,
     },
@@ -389,7 +389,7 @@ export const siteConfig: SiteConfig = {
     },
     graphView: {
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_ENABLED]
-      enabled: true,
+      enabled: false,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_SHOW_IN_SIDEBAR]
       showInSidebar: true,
       // [CONFIG:POST_OPTIONS_GRAPH_VIEW_MAX_NODES]
