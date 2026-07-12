@@ -183,7 +183,7 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   // Site Information
   // [CONFIG:SITE_URL]
-  site: "https://www.blogpleroma.com/",
+  site: "https://blogpleroma.com/",
   // [CONFIG:SITE_TITLE]
   title: "Pleroma",
   // [CONFIG:HOMEPAGE_TITLE]
