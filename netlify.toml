@@ -242,6 +242,18 @@
   force = true
 
 [[redirects]]
+  from = "/posts/blog-post"
+  to = "/posts/o-átomo-divino"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/posts/atomo-divino"
+  to = "/posts/o-átomo-divino"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/docs/api-reference"
   to = "/docs/api"
   status = 301
