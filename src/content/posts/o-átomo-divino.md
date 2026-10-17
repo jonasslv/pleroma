@@ -103,32 +103,34 @@ No processo entre o ser e o agir, ocorre a quebra da dualidade, e é isso que in
 Perceba que a ideia independentemente gera no cosmos o movimento que precisava gerar, a ação só nos permite escolher a forma que a ideia vai ter.  
 Ou vivemos um reino de ideias distorcidas, ou um paraíso de ideias claras e verdadeiras.  
 ## A existência autocontida
-  
+
 Dito tudo isso, temos o átomo da ideia, chegando no coração do nosso ensaio.
 Independente do nome que você quiser chamar, símbolo, ideia, arquétipo, existe uma base abstrata para cada objeto sólido, e varias bases abstratas se somam com seu simbolismo, muitas vezes para o vir a ser de um objeto complexo.  
-Assim como na química e física, acredito que o estudo dos símbolos, dos mitos, nos leve a compreensão do átomo relativístico que vai além da compreensão limitada que temos do presente sobre a consciência.  
+Assim como na química e física, acredito que o estudo dos símbolos, dos mitos, nos leve a compreensão do átomo relativístico da consciência que vai além da compreensão limitada que temos no presente.  
   
-Vamos além e delimitar algumas coisas:
+Vamos delimitar algumas coisas:
 Os universos, o universo dos efeitos (material), o universo sentimental e psíquico e o universo mental causal, são todos herméticos e fechados, eles próprios explicam a si mesmo, são auto-contidos e redundantes, você não precisa olhar além para encontrar a explicação para as coisas, a ciência pode viver só dentro da ciência, as coisas sempre vão ter causas circulares, tudo vai seguir as leis que geram a estabilidade.  
 
 ![illumination](attachments/illumination.png)
 
-Porém aceitar a existência de múltiplas camadas em nossa consciência nos leva a expandir nossa capacidade de visão e nos enriquece imensamente no meio abstrato e compreensivo, fazendo nos tornar mais humanos, todas as vivências empíricas, instintivas ou esotéricas tem raízes em ceder voluntaria ou involuntariamente a existência não-objetiva e orgânica.
-  
+Porém aceitar a existência de múltiplas camadas em nossa realidade nos leva a expandir nossa capacidade de visão e nos enriquece imensamente no meio abstrato e compreensivo, fazendo nos tornar mais humanos, todas as vivências empíricas, instintivas ou esotéricas tem raízes em ceder voluntaria ou involuntariamente a existência não-objetiva e orgânica.
+
 E assim, por mais hermético que cada universo seja, ainda existe algo que dá base a todos: A raiz da ideia, ela é imutável, sempre existiu, não há como alterar algo que não pode ser criado (pois não tem forma). 
 Somos frutos das nossas ideias ou construímos nossas ideias com base num contexto complexo de ações e reações? Isso é um problema circular, diria que ambas as coisas.
-O que importa é o enriquecimento da percepção: Quando paramos de enxergar o que cada coisa parece ser isoladamente, mas de fato caminhamos para ver o que cada coisa representa em seu papel no sistema inteiro, então podemos aplicar esse conhecimento a infinitos objetos, para enxergar essa matriz precisamos parar de preconceituar as coisas, sermos cabeça mais aberta.
+
+O que importa é o enriquecimento da percepção: Quando paramos de enxergar o que cada coisa parece ser isoladamente, mas de fato caminhamos para ver o que cada coisa representa em seu papel no sistema inteiro, então podemos aplicar esse conhecimento a infinitos objetos, para enxergar essa matriz precisamos parar de preconceituar as coisas, abrirmos a cabeça para dúvidas e se fechar para as respostas prontas e fáceis.
 Essa é a remoção do viés, é a entrega a pura observação, se afastando do apego ao resultado.
 
 Nesse momento ocorre um nascimento, um trovão! Do positivo e negativo, surge um terceiro, o neutro, que é o que realmente é. 
 Esse é o ponto de vista essencial, pois quando aplicado diariamente e em massa, nos afasta dos sofrimentos, dos julgamentos e de egoísmo.  
-Acelerei um pouco aqui né? Mas nesse ponto deixo para fins de reflexão, a cada um, se pergunte, por que me afastar do viés me torna mais vivo? Mais humano?
+Acelerei um pouco aqui né? Mas nesse ponto deixo para fins de reflexão, a cada um, se pergunte, por que me afastar do viés me torna mais vivo? Mais humano? Menos sofredor?
 
 Se todas as coisas podem ser representadas através de ideias previamente (e eternamente) contidas por símbolos, então, podemos de certa forma, determinar a manifestação das ideias, se conhecemos seus símbolos.  
 Porém quando me refiro a determinar, não é um determinismo certeiro e científico, isso paradoxal a ideia, pois a ideia é por natureza, relativística e não-formada, assim como os próprios pilares do universo.
 
-Do símbolo da ideia podemos derivar o conteúdo não-dualista, que é justamente o conteúdo utilizado pelo sentimento para formar a vontade do manifestar.  
-Compreender o símbolo é compreender a finalidade dos movimentos. Compreender seu próprio sentimento é observar a reação causada pela ação, e entender que por bem ou por mal, aquilo leva a um resultado.
+Do símbolo da ideia podemos derivar o conteúdo não-dualista, que é justamente o conteúdo utilizado pelo sentimento para formar a vontade do manifestar. 
+Compreender o símbolo é compreender a finalidade dos movimentos. 
+Compreender seu próprio sentimento é observar a reação causada pela ação, e entender que por bem ou por mal, aquilo leva a um resultado.
 Ao invés de julgar a qualidade da ação ou os objetos envolvidos no resultado, passamos a enxergar a orquestra inteira.  
 
 ![ouroboros|246](attachments/ouroboros.png)
@@ -138,7 +140,7 @@ Ao invés de julgar a qualidade da ação ou os objetos envolvidos no resultado,
 Buscar entender o símbolo é trocar as perguntas que fazemos: “Como, Por que?” para “Para quê?”, é assentir que o mundo em que vivemos é cheio de sentido e finalidade e não existe nada que acontece sem objetivo, sem causa e efeito, sem representar algo maior.
 
 Só é importante ressaltar, jamais podemos entender totalmente a ideia, não somos capazes de ser donos do símbolo, personificar ou buscar se tornar o símbolo é um erro e pode levar a consequências graves, o Ser é um composto plural, vivemos e somos vividos. 
-Somos muitos átomos, muitos símbolos, mas podemos exercer a busca pelo entendimento de cada símbolo individual que leva a uma aproximação e soma de cada vez mais ângulos de visão. A criação de uma interface de acesso (única a sua própria ideia interna) leva ao desenvolvimento da sua própria identidade.
+Somos muitos átomos, muitos símbolos, mas podemos exercer a busca pelo entendimento de cada símbolo individual que leva a uma aproximação e soma de cada vez mais ângulos de visão. A criação de uma interface de acesso (única a nossa própria ideia interna) leva ao desenvolvimento da nossa própria identidade.
 
 Essa visão de dar sentido ao mundo e a vida, constrói a verdadeira espiritualidade, o ritual, a magia, a oração, as formas que damos a existência empírica, nada mais são do que instrumentos e ferramentas, mas para nos tornarmos humanos precisamos entender, expandir, iluminar, sem pré-conceitos e de maneira orgânica.
 Espiritualidade é dar sentido ao mundo, é enxergar o Universo refletido em si mesmo, tudo que apresentei aqui foi uma observação de como podemos tomar a própria matriz básica da realidade como ensinamento interior.
