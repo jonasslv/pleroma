@@ -20,7 +20,7 @@ aliases:
   - atomo-divino
 ---
 ![caverna](attachments/caverna.png)
-# Os 3 mundos
+## Os 3 mundos
 
 O universo por convenção se desdobra através de objetos menores que compõe objetos maiores, sistemas dentro de sistemas.  
 A física clássica nada mais é do que a simplificação de um determinismo falso da física quântica, que é puramente probabilística e não-dualista.  
@@ -34,7 +34,7 @@ Podemos dividir a experiência do Ser Humano consciente em 3 camadas:
 
 Do meu ponto de vista, é essencial que nenhuma vivência empírica ou filosófica possa ser incoerente com as descobertas cientificas até o momento, sou totalmente a favor de explorar a *psique* de maneira empírica e quebrar as barreiras do lento progresso cientifico ocidental humano, que vai aos trancos e barrancos conforme o interesse do capital. Mas é incoerente, ignorante e desrespeitoso dobrar leis conhecidas e profundamente estudadas, fundando uma pseudociência ou tentando explicar as coisas por um ponto de vista místico. 
 ![alquimia|388](attachments/alquimia.png)
-# A União
+## A União
 
 Sendo assim, ao analisar a psique, devemos unir o chumbo ao éter, é imprescindível levar em conta a ciência.
 Sendo assim a visão de padrões no universo deixa de ser real em dois momentos:
@@ -44,7 +44,7 @@ Sendo assim a visão de padrões no universo deixa de ser real em dois momentos:
 Lembrando que isso é somente o que sabemos, existem ainda muitas incógnitas.
 Existem teorias que refutam a inexistência de um padrão, como a teoria da ordem implicada ou a teoria dos muitos mundos (ambas feitas por renomados cientistas), a física quântica observável continua sendo probabilística, nenhuma lei é quebrada, mas o que se intuí nessas teorias é que exista um substrato universal e interconectado.
  ![chess-board|490](attachments/chess-board.png)
-# Os Padrões
+## Os Padrões
 
 Então para mim, o suprassumo do que tento alcançar ao leitor: A Teoria da irrazoabilidade matemática:
 “Wigner observa que conceitos matemáticos puros que foram desenvolvidos e estudados independentemente da física, muitas vezes para que os matemáticos pudessem demonstrar sua "engenhosidade e senso de beleza formal", ainda assim encontram aplicações na física. A estrutura matemática da física teórica frequentemente aponta o caminho para novos avanços nessa teoria e tem poder preditivo e empírico na descrição da natureza.”  
@@ -57,7 +57,7 @@ Existe a forte crença e intuição filosófica de que tudo quer servir a uma ca
 
 
 ![212](attachments/bagua.png)
-# A Realidade é um Paradoxo
+## A Realidade é um Paradoxo
 
 A noção de que toda ideia quer vir a ser e é fortemente incentivada pelo universo que a permeia, se integrando simbioticamente ao meio.
 Enxergo isso como mais que uma simples necessidade, é a tradução da própria lei da natureza, em que tudo se movimenta enquanto existir energia, as colisões e transformações são inevitáveis, não existe repouso absoluto. As coisas começam do nada, se transformam e ao nada retornam (I Ching).
@@ -73,7 +73,7 @@ Descobrir o universo e si-mesmo é sobre aproximação e profundidade, aquele qu
   
 Num sentido epistêmico porém o universo não é determinista, tanto de um ponto de vista físico teórico quanto de um ponto de vista filosófico: Símbolos são não-criados, é sempre uma novidade como os símbolos se organizam e reorganizam. Como os elementos químicos da tabela periódica que tem uma numeração finita, porém os compostos químicos possíveis são infinitos, cada dia descoberto novos, mais complexos, mais difíceis de reproduzir e mais relevantes para nossa tecnologia. 
 ![platao|405](attachments/platao.png)
-# Elasticidade e Solidificação
+## Elasticidade e Solidificação
 
 A **ideia** abstrata, assim como a física quântica, é por natureza não-dualista e relativística, totalmente elástica, enquanto a vivência objetiva e material: Ilusória, é determinista e dualista.
 
@@ -89,7 +89,7 @@ Deixando um pouco de lado a ciência e focamos mais na filosofia:
 Para entendermos o símbolo e a ideia, precisamos ir além, precisamos estar abertos ao abstrato, ao não-entendimento, a dúvida, assim como os físico teóricos tem que fazer. Precisamos ser humildes e assumir que talvez não seja a ideia não-criada que seja abstrata, mas que nossa capacidade de entender seja limitada para captar algo tão abrangente e andrógeno.
 
 ![](attachments/logos-1.png)
-# O Logos
+## O Logos
 
 Expandindo esse conceito dentro do Ser Humano, somos a ideia viva e encarnada, cada Ser Humano é por si só único, tem uma maneira única de entender, processar e viver. Consciente ou inconscientemente expressamos a ideia que somos, mesmo que não tenhamos a capacidade de ver através da membrana do lado de fora: O fluído universal, carregamos a ideia, sentimos a ideia que carregamos e materializamos aquilo que a ideia precisa ser. 
 Logo se vê que a ação humana por si só é não-dualista também, independente de nosso julgar relativo de que estamos realizando algo construtivo ou destrutivo, a ideia apenas é, ela não se importa com o como, ela só quer se expressar. A diferença aqui é que podemos ser realistas e apenas observar o que a ideia é, ou construir um apego por um ângulo relativo da ideia e viver de uma ilusão, acreditando que nosso lado é o certo, quando sequer existem lados num círculo.
@@ -103,7 +103,7 @@ Aqui eu poderia estender um pouco sobre o sentimento, este é o retorno da opini
 No processo entre o ser e o agir, ocorre a quebra da dualidade, e é isso que indica a qualidade da manifestação, ou ela de fato conversa diretamente com a ideia, uma manifestação de qualidade positiva, ou ela permeia, circula, evita ir ao centro da ideia, mas inevitavelmente manifesta a mesma finalidade, a manifestação de qualidade negativa. 
 Perceba que a ideia independentemente gera no cosmos o movimento que precisava gerar, a ação só nos permite escolher a forma que a ideia vai ter.  
 Ou vivemos um reino de ideias distorcidas, ou um paraíso de ideias claras e verdadeiras.  
-# A existência autocontida
+## A existência autocontida
   
 Dito tudo isso, temos o átomo da ideia, chegando no coração do nosso ensaio.
 Independente do nome que você quiser chamar, símbolo, ideia, arquétipo, existe uma base abstrata para cada objeto sólido, e varias bases abstratas se somam com seu simbolismo, muitas vezes para o vir a ser de um objeto complexo.  
@@ -134,7 +134,7 @@ Ao invés de julgar a qualidade da ação ou os objetos envolvidos no resultado,
 
 ![ouroboros|246](attachments/ouroboros.png)
 
-# O Círculo
+## O Círculo
 
 Buscar entender o símbolo é trocar as perguntas que fazemos: “Como, Por que?” para “Para quê?”, é assentir que o mundo em que vivemos é cheio de sentido e finalidade e não existe nada que acontece sem objetivo, sem causa e efeito, sem representar algo maior.
 
