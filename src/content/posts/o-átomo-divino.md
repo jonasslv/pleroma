@@ -52,7 +52,7 @@ Então para mim, o suprassumo do que tento alcançar ao leitor, a irrazoabilidad
 Eis que a matemática pura e profunda pode explicar o quântico, padrões matemáticos que se aglomeram e se repetem e acabam por ecoar no mundo macroscópico. Apesar da divisão entre quântico e clássico, tudo é uma coisa só, se desdobrando.
 Quando aplicada à filosofia enxergo esses padrões orquestrados do menor ao maior, pelo conceito abstrato de ***Ideia***.  
 
-Existe a forte crença e intuição filosófica de que tudo quer servir a uma causa, as coisas possuem um conceito e uma finalidade. Qualquer vivência empírica profunda como a dos Iogues ou Santos tendem profundamente em seu Ser à conexão da realidade num plano unificado.
+Existe a forte crença e intuição filosófica de que tudo quer servir a uma causa, as coisas possuem um conceito e uma finalidade, querem se unir em prol de algo maior. Qualquer vivência empírica profunda como a dos Iogues ou Santos da antiguidade até o presente, tendem profundamente à conexão da realidade num plano unificado.
 
 
 ![212](attachments/bagua.png)
@@ -66,24 +66,25 @@ Resumindo, o universo pode ser considerado determinístico?
 Sim e não, num sentido macroscópico sim, podemos dizer que o universo é determinístico, pois os símbolos se repetem, nessa manifestação de leis estáveis, hoje mais do que tudo, se sabe que as leis nos permeiam por todos os campos.
 Leis da física, leis da matemática, leis da biologia, tudo é formado de paredes e disso já sabemos, a questão é, o quanto conseguimos ampliar nosso ângulo de visão para enxergar o todo? Nesse momento não questionamos mais a obra, mas os detalhes da obra, descobrimos o número e estamos explorando as muitas casas decimais.  
 
-A exploração cientifica seja ela empírica ou instrumentada é mais parecido um círculo que se aprofunda sobre um determinado aspecto que acaba se expandindo de dentro pra fora, do que um ponto determinado que chega a uma verdade absoluta.
+A exploração cientifica seja ela empírica ou instrumentada é mais parecida um círculo que se aprofunda sobre um determinado aspecto que acaba se expandindo de dentro pra fora, do que um ponto determinado que chega a uma verdade absoluta.
 Descobrir o universo e si-mesmo é sobre aproximação e profundidade, aquele que diz saber de tudo sobre algo, de nada sabe.
   
 Num sentido exato porém o universo não é determinista, tanto de um ponto de vista físico teórico quanto de um ponto de vista filosófico: Símbolos são não-criados, é sempre uma novidade como os símbolos se organizam e reorganizam. Como os elementos químicos da tabela periódica que tem uma numeração finita, porém os compostos químicos possíveis são infinitos, cada dia descoberto novos, mais complexos, mais difíceis de reproduzir e mais relevantes para nossa tecnologia. 
 ![platao|405](attachments/platao.png)
 ## Elasticidade e Solidificação
 
-A **ideia** abstrata, assim como a física quântica, é por natureza não-dualista e relativística, totalmente elástica, enquanto a vivência objetiva e material: Ilusória, é determinista e dualista.
+A **ideia** abstrata, assim como a divisão entre física quântica e clássica, é por natureza não-dualista e relativística, totalmente elástica, enquanto a vivência objetiva e material: Ilusória, é determinista e dualista.
 
 Precisamos de muitos graus de abstração para conseguirmos entender os fundamentos básicos da realidade, a física quântica para o não-estudante parece algo misterioso ou impossível.
 Quanto mais nos aproximamos do cerne das coisas, mais percebemos que nosso ponto de vista polui e afeta o verdadeiro entendimento, e percebemos que não é possível analisar algo diretamente, sem um ponto de referência, inclusive isso é um dos grandes problemas da pesquisa de ponta. 
 
 Quando tentamos ir em direção ao centro do foco de conhecimento e nos desfazemos o máximo possível das formas, nos atendo as abstrações, mais irreal as coisas soam para a mente humana. 
   
-Assim como a partícula e a onda são verdadeiramente a mesma coisa e não podem ser especificadas de maneira realista, apenas pelo ponto de vista experimental/observacional. É impossível rotular uma ideia, um símbolo, podemos vestir o símbolo com uma forma, algo didático e bem conhecido que representa a função que conseguimos captar daquela ideia, mas nunca conseguimos isentar a forma de nosso ponto de vista, de nosso julgamento.  
+Assim como a partícula e a onda são verdadeiramente a mesma coisa e não podem ser especificadas de maneira realista, apenas pelo ponto de vista experimental/observacional.
+É impossível rotular uma ideia, um símbolo, podemos vestir o símbolo com uma forma, algo didático e bem conhecido que representa a função que conseguimos captar daquela ideia, mas nunca conseguimos isentar a forma de nosso ponto de vista, de nosso julgamento.  
 É importante ressaltar que uma ideia sempre se renova, o modelo didático só vai até certo ponto e até onde se sabe, existem infinitas formas de se expressar uma única ideia.  
 
-Deixando um pouco de lado a ciência e focamos mais na filosofia:
+Deixando um pouco de lado a ciência e focando mais na filosofia:
 Para entendermos o símbolo e a ideia, precisamos ir além, precisamos estar abertos ao abstrato, ao não-entendimento, a dúvida, assim como os físico teóricos tem que fazer. Precisamos ser humildes e assumir que talvez não seja a ideia não-criada que seja abstrata, mas que nossa capacidade de entender seja limitada para captar algo tão abrangente e andrógeno.
 
 ![](attachments/logos-1.png)
