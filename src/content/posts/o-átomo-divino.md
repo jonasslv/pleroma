@@ -49,7 +49,7 @@ Existem teorias que refutam a inexistência de um padrão, como a teoria da orde
 Então para mim, o suprassumo do que tento alcançar ao leitor, a irrazoabilidade matemática: 
 “Wigner observa que conceitos matemáticos puros que foram desenvolvidos e estudados independentemente da física, muitas vezes para que os matemáticos pudessem demonstrar sua "engenhosidade e senso de beleza formal", ainda assim encontram aplicações na física. A estrutura matemática da física teórica frequentemente aponta o caminho para novos avanços nessa teoria e tem poder preditivo e empírico na descrição da natureza.”  
   
-Eis que a matemática pura e profunda pode explicar o quântico, padrões matemáticos que se aglomeram e se repetem e acabam por ecoar nos mundo macroscópico. Apesar da divisão entre quântico e clássico, tudo é uma coisa só, se desdobrando.
+Eis que a matemática pura e profunda pode explicar o quântico, padrões matemáticos que se aglomeram e se repetem e acabam por ecoar no mundo macroscópico. Apesar da divisão entre quântico e clássico, tudo é uma coisa só, se desdobrando.
 Quando aplicada à filosofia enxergo esses padrões orquestrados do menor ao maior, pelo conceito abstrato de ***Ideia***.  
 
 Existe a forte crença e intuição filosófica de que tudo quer servir a uma causa, as coisas possuem um conceito e uma finalidade. Qualquer vivência empírica profunda como a dos Iogues ou Santos tendem profundamente em seu Ser à conexão da realidade num plano unificado.
