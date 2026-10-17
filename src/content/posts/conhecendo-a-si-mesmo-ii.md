@@ -135,3 +135,5 @@ Se esse exercício for feito com certa frequência, sua capacidade de estar pres
 "Isso mexeu comigo, mas será que devo reagir assim? É justo com essa pessoa e com o ambiente que quero construir pra mim?"
 
 E lentamente vamos ouvindo o que nosso inconsciente quer nos informar e tomando o verdadeiro papel da consciência, de intermediador entre o interior e exterior.
+
+*(Esse texto foi criado sem uso de IA.)*
