@@ -88,9 +88,10 @@ Assim como a partícula e a onda são verdadeiramente a mesma coisa e não podem
 Deixando um pouco de lado a ciência e focamos mais na filosofia:
 Para entendermos o símbolo e a ideia, precisamos ir além, precisamos estar abertos ao abstrato, ao não-entendimento, a dúvida, assim como os físico teóricos tem que fazer. Precisamos ser humildes e assumir que talvez não seja a ideia não-criada que seja abstrata, mas que nossa capacidade de entender seja limitada para captar algo tão abrangente e andrógeno.
 
+![](attachments/logos-1.png)
 # O Logos
 
-Expandindo esse conceito dentro do Ser Humano, somos a ideia viva e encarnada, cada Ser Humano é por si só único, tem uma maneira única de entender, processar e viver. Consciente ou inconscientemente expressamos a ideia que somos, mesmo que não tenhamos a capacidade de ver através da membrana do lado de fora: O fluído universal, carregamos a ideia, sentimos a ideia que carregamos e materializamos aquilo que a ideia precisa ser. ![logos|413](attachments/logos-1.png)
+Expandindo esse conceito dentro do Ser Humano, somos a ideia viva e encarnada, cada Ser Humano é por si só único, tem uma maneira única de entender, processar e viver. Consciente ou inconscientemente expressamos a ideia que somos, mesmo que não tenhamos a capacidade de ver através da membrana do lado de fora: O fluído universal, carregamos a ideia, sentimos a ideia que carregamos e materializamos aquilo que a ideia precisa ser. 
 Logo se vê que a ação humana por si só é não-dualista também, independente de nosso julgar relativo de que estamos realizando algo construtivo ou destrutivo, a ideia apenas é, ela não se importa com o como, ela só quer se expressar. A diferença aqui é que podemos ser realistas e apenas observar o que a ideia é, ou construir um apego por um ângulo relativo da ideia e viver de uma ilusão, acreditando que nosso lado é o certo, quando sequer existem lados num círculo.
 
 Existe uma essencialidade na busca pelo conhecimento, o conhecimento é um dos sentidos do espírito, sem conhecimento vivemos a esmo, podendo ser dito que é quase impossível "acertarmos na vida" se não observamos claramente o contexto ao nosso redor. O Caos e a Ordem interna estão diretamente atrelados ao nosso conhecimento. O mesmo nos dá capacidade de discernimento e leva a ação focalizada, quando se faz algo que se tem ampla noção de suas consequências.
@@ -130,6 +131,8 @@ Porém quando me refiro a determinar, não é um determinismo certeiro e cientí
 Do símbolo da ideia podemos derivar o conteúdo não-dualista, que é justamente o conteúdo utilizado pelo sentimento para formar a vontade do manifestar.  
 Compreender o símbolo é compreender a finalidade dos movimentos. Compreender seu próprio sentimento é observar a reação causada pela ação, e entender que por bem ou por mal, aquilo leva a um resultado.
 Ao invés de julgar a qualidade da ação ou os objetos envolvidos no resultado, passamos a enxergar a orquestra inteira.  
+
+![ouroboros|246](attachments/ouroboros.png)
 
 # O Círculo
 
