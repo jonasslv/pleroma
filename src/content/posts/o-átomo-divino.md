@@ -46,22 +46,20 @@ Existem teorias que refutam a inexistência de um padrão, como a teoria da orde
  ![chess-board|490](attachments/chess-board.png)
 ## Os Padrões
 
-Então para mim, o suprassumo do que tento alcançar ao leitor: A Teoria da irrazoabilidade matemática:
+Então para mim, o suprassumo do que tento alcançar ao leitor, a irrazoabilidade matemática: 
 “Wigner observa que conceitos matemáticos puros que foram desenvolvidos e estudados independentemente da física, muitas vezes para que os matemáticos pudessem demonstrar sua "engenhosidade e senso de beleza formal", ainda assim encontram aplicações na física. A estrutura matemática da física teórica frequentemente aponta o caminho para novos avanços nessa teoria e tem poder preditivo e empírico na descrição da natureza.”  
   
-Eis que a matemática pura e profunda pode explicar o quântico, padrões matemáticos que se aglomeram e se repetem e ecoam nos sistemas clássicos.
+Eis que a matemática pura e profunda pode explicar o quântico, padrões matemáticos que se aglomeram e se repetem e acabam por ecoar nos mundo macroscópico. Apesar da divisão entre quântico e clássico, tudo é uma coisa só, se desdobrando.
 Quando aplicada à filosofia enxergo esses padrões orquestrados do menor ao maior, pelo conceito abstrato de ***Ideia***.  
 
-Mergulhando mais profundamente: 
 Existe a forte crença e intuição filosófica de que tudo quer servir a uma causa, as coisas possuem um conceito e uma finalidade. Qualquer vivência empírica profunda como a dos Iogues ou Santos tendem profundamente em seu Ser à conexão da realidade num plano unificado.
 
 
 ![212](attachments/bagua.png)
-## A Realidade é um Paradoxo
+## O Movimento
 
-A noção de que toda ideia quer vir a ser e é fortemente incentivada pelo universo que a permeia, se integrando simbioticamente ao meio.
-Enxergo isso como mais que uma simples necessidade, é a tradução da própria lei da natureza, em que tudo se movimenta enquanto existir energia, as colisões e transformações são inevitáveis, não existe repouso absoluto. As coisas começam do nada, se transformam e ao nada retornam (I Ching).
- 
+Vários filósofos tem a crença de que toda ideia quer vir a ser e é fortemente incentivada pelo universo que a permeia, se integrando simbioticamente ao meio.
+Enxergo isso como mais que uma simples necessidade, é a tradução da própria lei da natureza, em que tudo se movimenta enquanto existir energia, as colisões e transformações são inevitáveis e não existe repouso absoluto. As coisas começam do nada, se transformam e ao nada retornam (I Ching). 
 Um padrão quer se materializar, um símbolo quer virar objeto, a imaginação quer virar ação. 
 
 Resumindo, o universo pode ser considerado determinístico?    
@@ -71,7 +69,7 @@ Leis da física, leis da matemática, leis da biologia, tudo é formado de pared
 A exploração cientifica seja ela empírica ou instrumentada é mais parecido um círculo que se aprofunda sobre um determinado aspecto que acaba se expandindo de dentro pra fora, do que um ponto determinado que chega a uma verdade absoluta.
 Descobrir o universo e si-mesmo é sobre aproximação e profundidade, aquele que diz saber de tudo sobre algo, de nada sabe.
   
-Num sentido epistêmico porém o universo não é determinista, tanto de um ponto de vista físico teórico quanto de um ponto de vista filosófico: Símbolos são não-criados, é sempre uma novidade como os símbolos se organizam e reorganizam. Como os elementos químicos da tabela periódica que tem uma numeração finita, porém os compostos químicos possíveis são infinitos, cada dia descoberto novos, mais complexos, mais difíceis de reproduzir e mais relevantes para nossa tecnologia. 
+Num sentido exato porém o universo não é determinista, tanto de um ponto de vista físico teórico quanto de um ponto de vista filosófico: Símbolos são não-criados, é sempre uma novidade como os símbolos se organizam e reorganizam. Como os elementos químicos da tabela periódica que tem uma numeração finita, porém os compostos químicos possíveis são infinitos, cada dia descoberto novos, mais complexos, mais difíceis de reproduzir e mais relevantes para nossa tecnologia. 
 ![platao|405](attachments/platao.png)
 ## Elasticidade e Solidificação
 
