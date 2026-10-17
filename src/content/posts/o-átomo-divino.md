@@ -1,7 +1,7 @@
 ---
 title: O Átomo Divino
 date: 2026-10-16
-description: O que observar o universo pode dizer sobre nós.
+description: Observar o universo é observar a si-mesmo.
 tags:
   - alma
   - ciencia
